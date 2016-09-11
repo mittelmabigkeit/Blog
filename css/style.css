@@ -13,7 +13,7 @@
 	word-spacing:10px;
 	color: white;
 	border-color: white;
-	background-image: url (C:\OpenServer\domains\Blog\Blog\img\logo.png);
+	background-image: url (img/logo.png);
  }
 
  .login-block {
@@ -75,6 +75,62 @@
     border-color: white;
     color: white;
 
+ }
+
+ .banner {
+
+    position:relative;
+    border-width:1px;
+	border-style:solid;
+    width:100px;
+    height:100px;
+    margin-left:20px;
+	margin-top:25px;
+    border-color: white;
+    color: white;
+    background: url (img/14655755576320.png);
+ }
+
+ .bannerone {
+
+    position:relative;
+    border-width:1px;
+	border-style:solid;
+    width:100px;
+    height:100px;
+    margin-left:20px;
+	margin-top:25px;
+    border-color: white;
+    color: white;
+    background: url (img/14598071065480.jpg);
+ }
+
+ .bannertwo {
+
+    position:relative;
+    border-width:1px;
+	border-style:solid;
+    width:100px;
+    height:100px;
+    margin-left:20px;
+	margin-top:25px;
+    border-color: white;
+    color: white;
+    background: url (img/TrMLzysVOP4.jpg);
+ }
+
+ .bannerthree {
+
+    position:relative;
+    border-width:1px;
+	border-style:solid;
+    width:100px;
+    height:100px;
+    margin-left:20px;
+	margin-top:25px;
+    border-color: white;
+    color: white;
+    background: url (img/14547073552830.jpg);
  }
 	
 .bottom-block {
