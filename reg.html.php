@@ -54,6 +54,16 @@
     <a href="reg.html.php">Регистрация</a>
 	</div>
     <div class="central-block">      <!-- central block -->
+    <center>
+    <form action="<?=$_SERVER['SCRIPT_NAME']?>">
+        <p>Логин</p><input type="text" name = "LOGIN" size="15" value=""/><br>
+        <p>Пароль</p><input type="password" name = "PASS" size="15" value=""/><br>
+        <p>Повторите пароль</p><input type="password" name = "PASS" size="15" value=""/><br>
+        <p>E-mail</p><input type="text" name = "EMAIL" size="15" value=""/><br>
+        <br>
+            <input type="submit" name="GO" value="Зарегистрироваться">
+    </form>
+    </center>
     </div>  
     <div class="left-block">         <!-- right block -->
     <a href="index.html.php">Главная</a>
