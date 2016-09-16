@@ -5,7 +5,7 @@
 	border-width:1px;
 	border-style:solid;
     width:150px;
-    height:150px;
+    height:75px;
 	margin: 0 auto 0 auto;
 	margin-top:10px;
 	text-align:center;
@@ -13,7 +13,6 @@
 	word-spacing:10px;
 	color: white;
 	border-color: white;
-	background-image: url (img/logo.png);
  }
 
  .login-block {
@@ -55,9 +54,9 @@
 	border-width:1px;
 	border-style:solid;
     width:150px;
-    height:580px;
+    height:655px;
 	margin: 0 auto 0 auto;
-	margin-top:175px;
+	margin-top:100px;
 	border-color: white;
 	color: white;
 
@@ -88,7 +87,6 @@
 	margin-top:25px;
     border-color: white;
     color: white;
-    background: url (img/14655755576320.png);
  }
 
  .bannerone {
@@ -102,7 +100,6 @@
 	margin-top:25px;
     border-color: white;
     color: white;
-    background: url (img/14598071065480.jpg);
  }
 
  .bannertwo {
@@ -116,7 +113,6 @@
 	margin-top:25px;
     border-color: white;
     color: white;
-    background: url (img/TrMLzysVOP4.jpg);
  }
 
  .bannerthree {
@@ -130,7 +126,6 @@
 	margin-top:25px;
     border-color: white;
     color: white;
-    background: url (img/14547073552830.jpg);
  }
 	
 .bottom-block {

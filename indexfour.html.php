@@ -27,7 +27,8 @@
   </style>
 </head>
 <body>
-    <div class="logo-block">   <!-- top block --> 
+    <div class="logo-block">   <!-- top block -->
+    <a href="index.html.php"><img src="img/logo.png"></a> 
     </div>
     <div class="login-block">         <!-- login-block-->   
 	<? if (!isset($_REQUEST['GO']))
@@ -66,12 +67,16 @@
    	</div>                                                               
     <div class="right-block">        <!-- right block -->
     <div class="banner">
+    <img src="img/14655755576320.png">
     </div>
     <div class="bannerone">
+    <img src="img/14598071065480.jpg">
     </div>
     <div class="bannertwo">
+    <img src="img/TrMLzysVOP4.jpg">
     </div>
     <div class="bannerthree">
+    <img src="img/14547073552830.jpg">
     </div>
    	</div>                                                                  
     <div class="bottom-block">        <!-- bottom block -->
