@@ -28,7 +28,7 @@
 </head>
 <body>
     <div class="logo-block">   <!-- top block -->
-    <a href="index.html.php"><img src="img/logo.png"></a> 
+    <a href="index.php"><img src="img/logo.png"></a> 
     </div>
     <div class="login-block">         <!-- login-block-->   
 	 <? if (!isset($_REQUEST['GO']))
@@ -51,17 +51,17 @@
         }
       }
     ?>
-    <a href="reg.html.php">Регистрация</a>
+    <a href="reg.php">Регистрация</a>
 	</div>
     <div class="central-block">      <!-- central block -->
     </div>  
     <div class="left-block">         <!-- right block -->
-    <a href="index.html.php">Главная</a>
+    <a href="index.php">Главная</a>
     <ul>
-     <li><a href="indexone.html.php">Статья 1</a></li>
-     <li><a href="indextwo.html.php">Статья 2</a></li>
-     <li><a href="indexthree.html.php">Статья 3</a></li>
-     <li><a href="indexfour.html.php">Статья 4</a></li>
+     <li><a href="indexone.php">Статья 1</a></li>
+     <li><a href="indextwo.php">Статья 2</a></li>
+     <li><a href="indexthree.php">Статья 3</a></li>
+     <li><a href="indexfour.php">Статья 4</a></li>
    </ul>
    	</div>                                                               
     <div class="right-block">        <!-- right block -->
